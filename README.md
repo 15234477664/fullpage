@@ -11,6 +11,7 @@ import 'fullpage.js/vendors/scrolloverflow';
 import VueFullPage from 'vue-fullpage.js';
 Vue.use(VueFullPage);
 ```
+## 页面中使用
 ```html
 <template>
     <div>
