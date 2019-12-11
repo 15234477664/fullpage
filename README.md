@@ -60,5 +60,13 @@ export default {
 
 解决方案如下：
 
+![Image text](https://github.com/15234477664/fullpage/blob/master/2.jpg)
 
+![Image text](https://github.com/15234477664/fullpage/blob/master/3.jpg)
+
+![Image text](https://github.com/15234477664/fullpage/blob/master/4.jpg)
+
+![Image text](https://github.com/15234477664/fullpage/blob/master/5.jpg)
+
+![Image text](https://github.com/15234477664/fullpage/blob/master/6.jpg)
 
