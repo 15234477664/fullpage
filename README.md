@@ -56,7 +56,7 @@ export default {
 ```
 运行后控制台会报如下的错误：
 
-![Image text](https://github.com/15234477664/fullpage/blob/master/1.jpg)
+![Image text](https://github.com/15234477664/fullpage/blob/master/1.png)
 
 解决方案如下：
 
